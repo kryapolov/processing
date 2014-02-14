@@ -1,8 +1,8 @@
 {
 	"name":        "mtools/processing",
 	"type":        "library",
-	"description": "Serving the processing and transformation of data package",
-	"license":     "WTFPL",
+	"description": "Processing and transformation data pattern",
+	"license":     "MIT",
 	"authors":     [
 		{
 			"name":     "Konstantin Ryapolov",
